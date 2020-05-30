@@ -1,0 +1,18 @@
+﻿The following languages are missing localizations for these province names, so they will not appear in those outputs.
+
+english:
+
+french:
+
+german:
+
+korean:
+
+russian:
+
+simp_chinese:
+
+spanish:
+
+
+The following keys only contain the following languages:

@@ -1,0 +1,321 @@
+﻿l_french:
+
+ PROV0001A:0 "Nil"
+
+ PROV0002A:0 "Nil Blanc"
+
+ PROV0003A:0 "Atbarah"
+ PROV0003B:0 "Astaboras"
+
+ PROV0004A:0 "Baetis"
+ PROV0004B:0 "Guadalquivir"
+
+ PROV0005A:0 "Flumen Anas"
+ PROV0005B:0 "Guadiana"
+
+ PROV0006A:0 "Tage"
+
+ PROV0007A:0 "Èbre"
+ PROV0007B:0 "Iberus"
+
+ PROV0008A:0 "Garumna"
+ PROV0008B:0 "Garonne"
+
+ PROV0009A:0 "Dordogne"
+
+ PROV0010A:0 "Duranius"
+
+ PROV0011A:0 "Liger"
+ PROV0011B:0 "Loire"
+
+ PROV0012A:0 "Sequana"
+ PROV0012B:0 "Seine"
+
+ PROV0013A:0 "Ems"
+ PROV0013B:0 "Amisius"
+
+ PROV0014A:0 "Yonne"
+ PROV0014B:0 "Icauna"
+
+ PROV0015A:0 "Marne"
+ PROV0015B:0 "Latinum"
+
+ PROV0016A:0 "Oise"
+ PROV0016B:0 "Isara"
+
+ PROV0017A:0 "Aisne"
+ PROV0017B:0 "Axona"
+
+ PROV0018A:0 "Rhodanus"
+ PROV0018B:0 "Rhône"
+ PROV0018C:0 "Rhone"
+
+ PROV0019A:0 "Saône"
+ PROV0019B:0 "Saône"
+ PROV0019C:0 "Arar"
+
+ PROV0020A:0 "Tamise"
+ PROV0020B:0 "Tamesis"
+
+ PROV0021A:0 "Avon"
+ PROV0021B:0 "Auvona"
+
+ PROV0022A:0 "Shannon"
+ PROV0022B:0 "Sionna"
+
+ PROV0023A:0 "Rhenus"
+ PROV0023B:0 "Rhine"
+
+ PROV0024A:0 "Main"
+ PROV0024B:0 "Moënus"
+
+ PROV0025A:0 "Moselle"
+ PROV0025B:0 "Musalla"
+
+ PROV0026A:0 "Meuse"
+ PROV0026B:0 "Mosa"
+
+ PROV0027A:0 "Isala"
+ PROV0027B:0 "Ijssel"
+
+ PROV0028A:0 "Albis"
+ PROV0028B:0 "Elbe"
+
+ PROV0029A:0 "Saale"
+ PROV0029B:0 "Sala"
+
+ PROV0030A:0 "Oder"
+ PROV0030B:0 "Viadrus"
+ PROV0030C:0 "Viadua"
+
+ PROV0031A:0 "Göta älv"
+ PROV0031B:0 "Gota Alv"
+
+ PROV0032A:0 "Vistule"
+ PROV0032B:0 "Ouistoula"
+
+ PROV0033A:0 "Boug"
+ PROV0033B:0 "Boug"
+
+ PROV0034A:0 "Niémen"
+ PROV0034B:0 "Niémen"
+ PROV0034C:0 "Nemunas"
+
+ PROV0035A:0 "Tibre"
+ PROV0035B:0 "Tiberis"
+
+ PROV0036A:0 "Padus"
+ PROV0036B:0 "Pô"
+
+ PROV0037A:0 "Tanaro"
+ PROV0037B:0 "Tanarus"
+
+ PROV0038A:0 "Tessin"
+ PROV0038B:0 "Ticīnus"
+
+ PROV0039A:0 "Mincio"
+ PROV0039B:0 "Mincius"
+
+ PROV0040A:0 "Panaro"
+ PROV0040B:0 "Scultenna"
+
+ PROV0041A:0 "Ister"
+ PROV0041B:0 "Danube"
+ PROV0041C:0 "Danuvius"
+
+ PROV0042A:0 "Sio"
+ PROV0042B:0 "Sió"
+
+ PROV0043A:0 "Drave"
+ PROV0043B:0 "Dravus"
+
+ PROV0044A:0 "Tisza"
+ PROV0044B:0 "Tissus"
+ PROV0044C:0 "Pathissus"
+
+ PROV0045A:0 "Koros"
+ PROV0045B:0 "Crisus"
+
+ PROV0046A:0 "Maros"
+ PROV0046B:0 "Marisus"
+
+ PROV0047A:0 "Save"
+ PROV0047B:0 "Savus"
+
+ PROV0048A:0 "Jiu"
+ PROV0048B:0 "Rabon"
+
+ PROV0049A:0 "Olt"
+ PROV0049B:0 "Aluta"
+
+ PROV0050A:0 "Arges"
+ PROV0050B:0 "Argessos"
+
+ PROV0051A:0 "Ialomita"
+ PROV0051B:0 "Naparis"
+
+ PROV0052A:0 "Siret"
+ PROV0052B:0 "Hierasus"
+
+ PROV0053A:0 "Buzau"
+ PROV0053B:0 "Araros"
+
+ PROV0054A:0 "Prout"
+ PROV0054B:0 "Pyretus"
+
+ PROV0055A:0 "Tyras"
+ PROV0055B:0 "Dniestr"
+
+ PROV0056A:0 "Don"
+ PROV0056B:0 "Tanaïs"
+
+ PROV0057A:0 "Volga"
+ PROV0057B:0 "Rha"
+
+ PROV0058A:0 "Koura"
+ PROV0058B:0 "Kur"
+
+ PROV0059A:0 "Araxe"
+ PROV0059B:0 "Araxes"
+
+ PROV0060A:0 "Tigre"
+
+ PROV0061A:0 "Uzaym"
+ PROV0061B:0 "ʿAdhaim"
+
+ PROV0062A:0 "Diyala"
+ PROV0062B:0 "Diyalas"
+
+ PROV0063A:0 "Charraf"
+ PROV0063B:0 "Hai"
+
+ PROV0064A:0 "Euphrate"
+ PROV0064B:0 "Ufrātu"
+
+ PROV0065A:0 "Khabour"
+ PROV0065B:0 "Chaboras"
+
+ PROV0066A:0 "Hindiyah"
+
+ PROV0067A:0 "Aral"
+
+ PROV0068A:0 "Oxus"
+ PROV0068B:0 "Amou-Daria"
+
+ PROV0069A:0 "Indus"
+ PROV0069B:0 "Sindhū"
+
+ PROV0070A:0 "Sutlej"
+ PROV0070B:0 "Sutlej"
+ PROV0070C:0 "Satadree"
+
+ PROV0071A:0 "Chenab"
+ PROV0071B:0 "Asikni"
+
+ PROV0072A:0 "Gange"
+
+ PROV0073A:0 "Yamuna"
+
+ PROV0074A:0 "Chambal"
+ PROV0074B:0 "Charmanwati"
+
+ PROV0075A:0 "Betwa"
+
+ PROV0076A:0 "Gomti"
+ PROV0076B:0 "Gomati"
+
+ PROV0077A:0 "Ghaghara"
+ PROV0077B:0 "Karnali"
+
+ PROV0078A:0 "Brahmapoutre"
+
+ PROV0079A:0 "Gandaki"
+
+ PROV0080A:0 "Kosi"
+
+ PROV0081A:0 "Brahmani"
+
+ PROV0082A:0 "Mahânadi"
+ PROV0082B:0 "Mahashweta"
+
+ PROV0083A:0 "Godavari"
+
+ PROV0084A:0 "Wainganga"
+
+ PROV0085A:0 "Krishna"
+
+ PROV0086A:0 "Bhima"
+
+ PROV0087A:0 "Tungabhadrâ"
+ PROV0087B:0 "Pampa"
+
+ PROV0088A:0 "Musi"
+
+ PROV0089A:0 "Pennar"
+
+ PROV0090A:0 "Palar"
+
+ PROV0091A:0 "Ponnaiyar"
+
+ PROV0092A:0 "Kaveri"
+
+ PROV0093A:0 "Kollidam"
+
+ PROV0094A:0 "Tapti"
+
+ PROV0095A:0 "Mahi"
+
+ PROV0096A:0 "Samara"
+ PROV0096B:0 "Somme"
+
+ PROV0097A:0 "Rioni"
+ PROV0097B:0 "Phasis"
+
+ PROV0098A:0 "Hypanis"
+ PROV0098B:0 "Boh"
+ PROV0098C:0 "Boug méridional"
+
+ PROV0099A:0 "Arnus"
+ PROV0099B:0 "Arno"
+
+ PROV0100A:0 "Daïkos"
+ PROV0100B:0 "Oural"
+
+ PROV0101A:0 "Durius"
+ PROV0101B:0 "Douro"
+ 
+ PROV0102A:0 "Narva"
+ 
+ PROV0103A:0 "Weser"
+ PROV0103B:0 "Visurgis"
+ 
+ PROV0104A:0 "Sénégal"
+ 
+ PROV0105A:0 "Volta"
+ 
+ PROV0106A:0 "Jaxartes"
+ PROV0106B:0 "Syr-Daria"
+ 
+ PROV0107A:0 "Ouzboï"
+ 
+ PROV0108A:0 "Chari"
+ 
+ PROV0109A:0 "Logone"
+ 
+ PROV0110A:0 "Yobé"
+ 
+ PROV0111A:0 "Glomma"
+ 
+ PROV0112A:0 "Tchorokhi"
+ PROV0112B:0 "Acampsis"
+ 
+ PROV0113A:0 "Selenga"
+ 
+ PROV0114A:0 "Terek"
+ 
+ PROV0115A:0 "Kouban" 
+ 
+ PROV0116A:0 "Narmada" 
+ PROV0116B:0 "Rewa" 
+ 
+ PROV0117A:0 "Soukhona"
