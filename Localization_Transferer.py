@@ -102,7 +102,10 @@ def getInputLocal():
         provNames = []
 
         for line in tmpTranslate:
-            if line.startswith(" PROV"):
+            if line.strip().startswith("#") or line.startswith("l_") or line.strip()=="":
+                pass
+            #if line.startswith(" PROV"):
+            else:
                 prov = ProvName(line.split("\"")[0])
                 prov.ID = line.split("\"")[0]
                 prov.Name = line.split("\"")[1]
